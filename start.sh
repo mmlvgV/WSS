@@ -1,1 +1,1 @@
-python3 -OO main.cpy
+./main.cpy.bin
