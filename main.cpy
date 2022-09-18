@@ -1,6 +1,6 @@
-import searfer
+import surfer
 
-service = searfer.Searfer(threads=int(input('Threads quantity: ')))
+service = surfer.Surfer(threads=int(input('Threads quantity: ')))
 
 while True:
     service.run()
